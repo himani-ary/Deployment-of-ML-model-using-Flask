@@ -1,2 +1,4 @@
 # FlaskDeployment-
 Internship-Task-Week-4
+This project effectively showcases the development and deployment of a machine learning model using the Iris dataset and Flask framework. 
+The selection of the Iris dataset was based on its suitability for classification tasks and its widespread adoption in the machine learning community. By following the standard workflow of data preprocessing, model training, and feature scaling,  a predictive model for determining the species of Iris flowers is constructed. The deployment was accomplished using Flask, a lightweight web framework, that allowed to create an API endpoint for making predictions. This project serves as a practical demonstration of the end-to-end process of building and deploying machine learning applications, offering valuable insights into data preprocessing, model selection, and web application development.
